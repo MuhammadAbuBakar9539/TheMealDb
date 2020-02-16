@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TheMealDb</string>
+    <string name="category_thumb">Category Thumb</string>
+    <string name="meal_thumb">Meal Thumb</string>
+    <string name="meal_categories">Meal Categories</string>
+    <string name="retry">Retry</string>
+</resources>
